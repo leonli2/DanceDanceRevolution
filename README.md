@@ -13,6 +13,7 @@ https://user-images.githubusercontent.com/112602959/196615952-22649e22-45fd-4ec8
 • The objective is for the player to score as much points as they can in 60 seconds.<br/>
 • There is also a combo tracker, which increases by 1 everytime the player sucessfully hits the correct arrow with the correcting timing.<br/>
 • This combo multiplies the points they get from subsequent arrows.<br/>
+• Reaching a combo of 15 will give a x2 multiplier, while a combo of 30 will give a x3 multiplier.
 
 • There are 4 accuracy types depending on how close the player was to pressing the arrow key at the correct time (WOW, GOOD, OKAY, MISS).
   1. WOW means perfectly aligned or very close.
