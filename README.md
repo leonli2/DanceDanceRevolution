@@ -15,9 +15,9 @@ https://user-images.githubusercontent.com/112602959/196615952-22649e22-45fd-4ec8
 • This combo multiplies the points they get from subsequent arrows.<br/>
 
 • There are 4 accuracy types depending on how close the player was to pressing the arrow key at the correct time (WOW, GOOD, OKAY, MISS).
-  1. WOW means perfectly aligned or very close
-  2. GOOD means somewhat close
-  3. OKAY means touching the arrow outline
+  1. WOW means perfectly aligned or very close.
+  2. GOOD means somewhat close.
+  3. OKAY means touching the arrow outline.
   4. MISS means that the player either let the arrow hit the top or pressed the wrong key.<br/>
 
 • These give 3, 2, 1, and 0 points respectively.<br/>
