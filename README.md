@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/112602959/196615952-22649e22-45fd-4ec8
   4. MISS means that the player either let the arrow hit the top or pressed the wrong key.<br/>
 
 • These give 3, 2, 1, and 0 points respectively.<br/>
-(Note: a MISS resets the combo to 0)
+(Note: a MISS also resets the combo to 0)
 
 # How to Play
 • First, press KEY0 in order to start the game.<br/>
