@@ -8,7 +8,7 @@ Since this is a project for Computer Organization at the University of Toronto, 
 https://user-images.githubusercontent.com/112602959/196615952-22649e22-45fd-4ec8-9f48-6f5f5dee81f8.mp4
 
 # Background
-Arrows fly up across the screen and once they match the arrow outline at the top of the screen, the player should press the corresponding key.
+Arrows fly up across the screen and once they match the arrow outline at the top of the screen, the player should press the corresponding key.<br/>
 These arrow keys are generated randomly and have a fixed speed.
 The objective is for the player to score as much points as they can in 60 seconds.
 There is also a combo tracker, which increases by 1 everytime the player sucessfully hits the correct arrow with the correcting timing.
