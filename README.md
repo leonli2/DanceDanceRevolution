@@ -1,5 +1,5 @@
 # Dance Dance Revolution
-Co-developed a playable Dance Dance Revolution on CPUlator, a website that simulates the DE1-SoC board.
+Co-developed a playable Dance Dance Revolution using C on CPUlator, a website that simulates the DE1-SoC board.
 
 # Note
 Since this is a project for Computer Organization at the University of Toronto, the source code cannot be shared due to Academic Integrity reasons.
